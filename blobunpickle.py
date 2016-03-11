@@ -25,6 +25,11 @@ Click convert.
       <div><textarea name="content" rows="3" cols="60"></textarea></div>
       <div><input type="submit" value="Convert"></div>
     </form>
+    
+    <div>
+    <small><i>If you like this tool, send improvement requests to: a n i a p t e AT g m a i l DOT c o m</i></small>
+    </div>
+
   </body>
 </html>
 """
