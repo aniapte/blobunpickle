@@ -1,0 +1,3 @@
+Install gcloud
+gcloud app deploy app.yaml
+
